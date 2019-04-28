@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CROSSROAD</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="app_version">Beta 2.3</string>
+    <string name="game_enter_line">Welcome to CORSSROAD!</string>
+    <string name="game_enter_title">CREATE CHARACTER</string>
+    <string name="game_enter_input_name">YOUR NAME:</string>
+    <string name="digits">QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm</string>
+    <string name="game_enter_input_gender">YOUR GENDER:</string>
+    <string name="game_enter_boy_line">Hello, I am a boy!</string>
+    <string name="game_enter_girl_line">Hello, I am a girl!</string>
+    <string name="introduction_fragment_line_part1">The Grayson family is new in town. It’s </string>
+    <string name="introduction_fragment_line_part2">’s first day of school. Before classes begins, </string>
+    <string name="introduction_fragment_line_part3">meets with Mr. Pullman, the principal, who arranges a tour for him with two other students: Jack Tang and Mason Albans.</string>
+    <string name="error_invalid_username">Please tell me your name in English!</string>
+</resources>
